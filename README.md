@@ -17,6 +17,8 @@ Se recomienda hacer lecturas de los siguientes documentos para tener un mayor ac
 
 - El seguimiento que hicimos del proceso creativo se encuentra en "Bitacora"
 
+   https://github.com/PrettySusi/Proyecto_I/blob/main/Bitacora.1.pdf
+
 
 **Descripción del Proyecto**
 
