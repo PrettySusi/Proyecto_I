@@ -49,5 +49,5 @@ Los nombres de los archivos siguen un formato que incluye un código de curso, e
 
  7. Estructura Final
 El resultado es una jerarquía de carpetas donde cada carpeta de semestre contiene subcarpetas para cada materia. Dentro de estas subcarpetas, se encuentran los archivos CSV y Excel con los nombres de los estudiantes matriculados en cada materia.
-
+ 
 
