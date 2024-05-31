@@ -4,7 +4,17 @@ Trabajo final Algoritmia y programación 2024-1
 ![image](https://github.com/PrettySusi/Proyecto_I/assets/169689247/ea5d3f58-7821-42b4-a9ce-f5301bbec82a)
 
 **Propósito y Utilidad del Proyecto**
-n/ Este proyecto automatiza la creación de una estructura de directorios y archivos para la organización de información académica, simulando un sistema de gestión de estudiantes y materias
+
+Este proyecto automatiza la creación de una estructura de directorios y archivos para la organización de información académica, simulando un sistema de gestión de estudiantes y materias
+
+**Documentos de interés**
+
+Se recomienda hacer lecturas de los siguientes documentos para tener un mayor acercamiento al trabajo realizado:
+
+- El código del proyecto se encuentra contenido en la pestaña "Proyecto I"
+
+- El seguimiento que hicimos del proceso creativo se encuentra en "Bitacora"
+
 
 **Descripción del Proyecto**
 
@@ -38,7 +48,7 @@ Utilizando las listas de nombres y apellidos, se crean combinaciones de nombres 
 5. Clasificación de Materias por Semestre
 Se organiza la lista de materias por semestres. Para cada semestre, se agrupan las materias correspondientes en listas separadas.
 
- 6. Creación de Directorios y Archivos
+6. Creación de Directorios y Archivos
 Para cada materia en cada semestre:
 1. Se crea una estructura de directorios siguiendo el formato R/Semestre X/Materia.
 2. Dentro de cada directorio de materia, se generan dos archivos:
